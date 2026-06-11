@@ -2,6 +2,7 @@
 """Tests for new TrashClaw plugins: markdown_table, text_diff, timer."""
 import sys
 import os
+import unittest
 import pytest
 
 # Add project root to path
